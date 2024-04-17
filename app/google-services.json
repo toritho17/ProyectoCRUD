@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149686566711",
+    "project_id": "fir-appejemplo-7b4ff",
+    "storage_bucket": "fir-appejemplo-7b4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149686566711:android:07e8e8f473d454848964b2",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.proyectocrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDANDTfR1orVNn5JFAH7sbfCfbSpvr6ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
